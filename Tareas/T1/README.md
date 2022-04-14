@@ -26,7 +26,7 @@ Explicación: mantén el emoji correspondiente, de manera honesta, para cada ite
 SINO QUE SE DEBERÁ EXPLICAR QUÉ SE REALIZO DETALLADAMENTE EN CADA ITEM.
 ⚠️⚠️
 #### Programación Orientada a Objetos: 38 pts (28%)
-##### ❌✅🟠  Diagrama <explicacion\>
+##### 🟠  Diagrama <No creo haber entregado a tiempo\> 
 ##### ❌✅🟠 Definición de clases, atributos, métodos y properties <explicacion\>
 ##### ❌✅🟠 Relaciones entre clases <explicacion\>
 #### Simulaciones: 10 pts (7%)
